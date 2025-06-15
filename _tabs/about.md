@@ -4,13 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<!-- Profile Image Placeholder -->
+<!-- Profile Image -->
 <div style="text-align: center; margin: 20px 0;">
-  <!-- Add your profile image here -->
-  <!-- <img src="/assets/img/profile.jpg" alt="Preethu Mohanan KK" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> -->
-  <div style="width: 200px; height: 200px; border-radius: 50%; background-color: #f0f0f0; margin: 0 auto; display: flex; align-items: center; justify-content: center; color: #666; border: 2px dashed #ccc;">
-    Profile Image
-  </div>
+  <img src="/assets/img/profile.jpg" alt="Preethu Mohanan KK" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 # About Me
