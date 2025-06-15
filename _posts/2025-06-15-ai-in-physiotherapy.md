@@ -3,7 +3,9 @@ title: "The Role of Artificial Intelligence in Physiotherapy: Current Applicatio
 date: 2025-06-15 10:00:00 +0530
 categories: [Healthcare, Technology, Physiotherapy]
 tags: [ai, physiotherapy, rehabilitation, healthcare-technology, machine-learning, digital-health, patient-care, musculoskeletal, neurological, sports-medicine]
-author: Preethu Mohanan KK
+author: 
+  name: Preethu Mohanan KK
+  link: https://preethumohanankk.github.io
 ---
 
 ## Introduction
