@@ -6,6 +6,12 @@ tags: [ai, physiotherapy, rehabilitation, healthcare-technology, machine-learnin
 author: "Preethu Mohanan KK"
 ---
 
+<div style="text-align: center; margin: 30px 0; padding: 20px; background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 8px; border-left: 4px solid #007bff;">
+  <p style="margin: 0; font-size: 1.1rem; color: #495057; font-style: italic;">
+    <strong>By</strong> <span style="color: #007bff; font-weight: 600;">Preethu Mohanan KK</span>
+  </p>
+</div>
+
 ## Introduction
 
 Artificial Intelligence (AI) is rapidly transforming many facets of healthcare, and physiotherapy is no exception. From automating the analysis of movement patterns to personalizing exercise programs, AI-driven tools are beginning to augment how physiotherapists assess and treat patients.
@@ -14,7 +20,7 @@ Artificial Intelligence (AI) is rapidly transforming many facets of healthcare, 
 > 
 > In recent years, there has been an explosion of research exploring AI in physiotherapy – **over 60% of published studies on machine learning in physical therapy appeared since 2020**[^1]. These studies span a broad range of applications including diagnosis, prognosis, treatment outcome prediction, clinical decision support, movement analysis, patient monitoring, and personalized care planning[^1].
 
-Early findings are promising: AI algorithms have demonstrated the ability to detect musculoskeletal disorders on medical images, predict rehabilitation outcomes, and even guide patients through exercises with accuracy approaching human-level performance. However, the integration of AI into clinical practice is still in its infancy. Most AI applications in physiotherapy remain in the research or pilot stage, and high-quality validation studies are limited[^1].
+Early findings are promising: AI algorithms have demonstrated the ability to detect musculoskeletal disorders on medical images, predict rehabilitation outcomes, and even guide patients through exercises with accuracy approaching human-level performance. However, the integration of AI into clinical practice is still in its infancy. Most AI applications in physiotherapy remain in the research or pilot stage, and high-quality validation studies are limited[^1]. 
 
 This comprehensive overview examines how AI technologies are being applied across three major domains of physiotherapy – **musculoskeletal, neurological, and sports** – highlighting recent examples from the past 2–3 years. We discuss the clinical benefits of AI in assessment, diagnosis, rehabilitation planning, remote monitoring, and patient education, as well as the limitations and challenges that must be addressed.
 
